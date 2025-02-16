@@ -1,2 +1,2 @@
 # titanic
-# 2024.08.18 test
+# PyTorch 연습용 레포
